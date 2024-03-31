@@ -178,7 +178,8 @@ function App() {
               Backend : NodeJS, Deployed on <b>Google Cloud</b>
             </div>
             <div className='row-xl'>
-              Frontend : Typescript React, Deployed on <b>Netlify</b>
+              Frontend : Typescript React, Deployed on <b>Netlify</b>, with
+              CI/CD configuration
             </div>
             <div className='row-xl'>
               Database : MongoDB, Deployed on <b>MongoDB Atlas</b>
